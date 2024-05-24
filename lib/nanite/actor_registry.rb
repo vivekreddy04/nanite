@@ -23,4 +23,4 @@ module Nanite
       actor = actors[prefix]
     end
   end # ActorRegistry
-end # Nanite 
+end # Nanite swdws
